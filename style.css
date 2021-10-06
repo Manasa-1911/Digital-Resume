@@ -1,0 +1,145 @@
+body {
+    height: 842px;
+    width: 650px;
+    /* to centre page on screen*/
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 25px;
+    background-image: url("template.jpg");
+    
+}
+
+#left {
+    width:50%;
+    height:1060px;
+    float: left;
+    margin-top: -11px;
+    background-color:white;
+    
+}
+
+#right {
+    width:50%;
+    height: 1060px;
+    float: right;
+    margin-top: -11px;
+    background-color: white;
+}
+
+hr{
+   width: 85%;
+   margin-left: 0%;
+   border-top: 2px solid black;
+ }
+
+.container{ 
+    background-color:white ;
+}
+
+
+.image{
+    float:right;
+    padding-right: 20px;
+    padding-top: 8px;
+}
+
+h1
+{
+     
+     margin-top: 20px;
+     height:60px;
+     padding-top: 35px;
+     padding-bottom: 20px;
+     padding-left: 20px;
+     color:black;
+    
+
+}
+
+.skill
+{
+    
+    color: black;
+    height: 40px;
+    width:125px;
+    margin:4px;
+}
+
+.project{
+    color: black;
+    height: 50px;
+    width:150px;
+}
+ .contact
+{
+    
+    color: black;
+    height: 40px;
+    width:295px;
+    margin:3px;
+} 
+
+
+.edu{
+   
+    color: black;
+    height: 40px;
+    width:183px;
+    margin:4px;
+}
+
+.language{
+   
+    color: black;
+    height: 30px;
+    width:150px;
+}
+
+.personal{
+    
+    color: black;
+    height: 30px;
+    width:225px; 
+}
+
+.interest{
+    
+    color: black;
+    height: 30px;
+    width:137px;
+}
+
+
+.hobbies{
+    
+    color: black;
+    height: 30px;
+    width:125px;
+}
+
+ .objective{
+    
+    color: black;
+    height: 40px;
+    width:163px;
+    margin:3px;
+}
+p{
+    margin:6px;
+}
+
+ 
+.vertical {
+    border-left: 3px solid rgb(0, 0, 0);
+    height: 1032px;
+    position:absolute;
+    left: 49.2%;
+    margin-left: 4px;
+    top: 167px;
+    
+  }
+
+  a{
+      color: black;
+      text-decoration: none;
+  }
